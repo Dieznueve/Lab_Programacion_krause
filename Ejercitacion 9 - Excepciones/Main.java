@@ -42,15 +42,15 @@ public class Main {
                 System.out.println("---------------------");
 
             } catch (EspectaculoCortoException e) {
-                System.out.println("Excepcion capturada: " + e.getMessage());
+                System.out.println(e.getMessage());
                 System.out.println("---------------------");
 
             } catch (NullPointerException e) {
-                System.out.println("Excepcion capturada: " + e.getMessage());
+                System.out.println(e.getMessage());
                 System.out.println("---------------------");
 
             } catch (IllegalArgumentException e) {
-                System.out.println("Excepcion capturada: " + e.getMessage());
+                System.out.println(e.getMessage());
                 System.out.println("---------------------");
 
             } finally {
