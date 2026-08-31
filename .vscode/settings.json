@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Ejercitacion 11 - JDBC PURO/src"
+    ],
+    "java.project.referencedLibraries": [
+        "Ejercitacion 11 - JDBC PURO/lib/mysql-connector-j-26.7.0.jar"
+    ]
+}
